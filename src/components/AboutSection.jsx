@@ -38,8 +38,13 @@ export const AboutSection = () => {
               </a>
 
               <a
+<<<<<<< HEAD
                 href="/projects/MIshael Daniel's CV.pdf"
                 download="MIshael Daniel's CV.pdf"
+=======
+                href="/projects/Mishael Daniel's CV.pdf"
+                download="Mishael Daniel's CV.pdf"
+>>>>>>> 9eec652235e60dab2a2ee3644497c6c5d295e9d3
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
                 Download Resume
